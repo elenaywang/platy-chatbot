@@ -2,8 +2,10 @@
 
 Smith College   
 CSC 256: Human-Computer Interaction course   
-Instructor: Johanna Brewer   
+*Instructor:* Johanna Brewer   
 2024 Spring Semester   
+
+*Team members:* Elena Wang, Elaine Demetrion, Lesly Gonzalez
 
 This repo contains the work of Elena Wang, Elaine Demetrion, and Lesly Gonzalez for Smith College's CSC 256 course. We chose to focus on researching the usage of Smith's makerspaces. For our final prototype, we developed Platy, a multi-platform AI-powered chatbot built with Voiceflow AI that is specialized in answering questions related to makerspaces at Smith College. We were voted the best project in the class.
 
